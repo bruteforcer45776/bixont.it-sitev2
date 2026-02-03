@@ -230,13 +230,13 @@
                             <h3 class="font-display font-bold text-lg mb-4 text-slate-900">Web &amp; Landing</h3>
                             <ul class="space-y-3 mt-auto">
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>                                                                                                            Design Responsivo
+                                    <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>                                                                        Design Responsivo
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>                                                                                                            SEO Tecnica
+                                    <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>                                                                        SEO Tecnica
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>                                                                                                            Velocità Top
+                                    <div class="w-1.5 h-1.5 rounded-full bg-blue-500"></div>                                                                        Velocità Top
                                 </li>
                             </ul>
                         </div>
@@ -254,13 +254,13 @@
                             <h3 class="font-display font-bold text-lg mb-4 text-slate-900">Social &amp; Ads</h3>
                             <ul class="space-y-3 mt-auto">
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-purple-500"></div>                                                                                                            Meta &amp; Google Ads
+                                    <div class="w-1.5 h-1.5 rounded-full bg-purple-500"></div>                                                                        Meta &amp; Google Ads
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-purple-500"></div>                                                                                                            Local SEO
+                                    <div class="w-1.5 h-1.5 rounded-full bg-purple-500"></div>                                                                        Local SEO
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-purple-500"></div>                                                                                                            Content Strategy
+                                    <div class="w-1.5 h-1.5 rounded-full bg-purple-500"></div>                                                                        Content Strategy
                                 </li>
                             </ul>
                         </div>
@@ -277,13 +277,13 @@
                             <h3 class="font-display font-bold text-lg mb-4 text-slate-900">Branding</h3>
                             <ul class="space-y-3 mt-auto">
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-pink-500"></div>                                                                                                            Logo Design
+                                    <div class="w-1.5 h-1.5 rounded-full bg-pink-500"></div>                                                                        Logo Design
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-pink-500"></div>                                                                                                            Identità Visiva
+                                    <div class="w-1.5 h-1.5 rounded-full bg-pink-500"></div>                                                                        Identità Visiva
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-pink-500"></div>                                                                                                            Materiale Stampa
+                                    <div class="w-1.5 h-1.5 rounded-full bg-pink-500"></div>                                                                        Materiale Stampa
                                 </li>
                             </ul>
                         </div>
@@ -310,13 +310,13 @@
                             <h3 class="font-display font-bold text-lg mb-4 text-slate-900">AI &amp; Automazioni</h3>
                             <ul class="space-y-3 mt-auto">
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-indigo-500"></div>                                                                                                            Chatbot Smart
+                                    <div class="w-1.5 h-1.5 rounded-full bg-indigo-500"></div>                                                                        Chatbot Smart
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-indigo-500"></div>                                                                                                            CRM Automatizzati
+                                    <div class="w-1.5 h-1.5 rounded-full bg-indigo-500"></div>                                                                        CRM Automatizzati
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-600">
-                                    <div class="w-1.5 h-1.5 rounded-full bg-indigo-500"></div>                                                                                                            Email Marketing
+                                    <div class="w-1.5 h-1.5 rounded-full bg-indigo-500"></div>                                                                        Email Marketing
                                 </li>
                             </ul>
                         </div>
@@ -355,21 +355,21 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Pagina singola ottimizzata
+                                    </div>                                                                         Pagina singola ottimizzata
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-green-100 text-green-600">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Copywriting incluso
+                                    </div>                                                                         Copywriting incluso
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-green-100 text-green-600">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Integrazione WhatsApp
+                                    </div>                                                                         Integrazione WhatsApp
                                 </li>
                             </ul>
                             <a href="#contact" class="block w-full py-3 px-4 bg-slate-50 hover:bg-slate-100 text-slate-900 font-semibold rounded-xl text-center transition-colors border border-slate-200">
@@ -402,28 +402,28 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Fino a 5 Pagine
+                                    </div>                                                                         Fino a 5 Pagine
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-blue-100 text-brand-blue">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Design Premium Custom
+                                    </div>                                                                         Design Premium Custom
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-blue-100 text-brand-blue">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             SEO Base &amp; Maps
+                                    </div>                                                                         SEO Base &amp; Maps
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-blue-100 text-brand-blue">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             1 Mese Assistenza
+                                    </div>                                                                         1 Mese Assistenza
                                 </li>
                             </ul>
                             <a href="#contact" class="block w-full py-4 px-4 bg-brand-blue hover:bg-brand-purple text-white font-semibold rounded-xl text-center transition-colors shadow-lg shadow-brand-blue/20">
@@ -445,21 +445,21 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             E-commerce Completi
+                                    </div>                                                                         E-commerce Completi
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-purple-100 text-purple-600">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Chatbot AI Evoluti
+                                    </div>                                                                         Chatbot AI Evoluti
                                 </li>
                                 <li class="flex items-center gap-3 text-sm text-slate-700">
                                     <div class="p-1 rounded-full bg-purple-100 text-purple-600">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="check" aria-hidden="true" class="lucide lucide-check w-3 h-3">
                                             <path d="M20 6 9 17l-5-5"></path>
                                         </svg>
-                                    </div>                                                                                                             Consulenza Strategica
+                                    </div>                                                                         Consulenza Strategica
                                 </li>
                             </ul>
                             <a href="#contact" class="block w-full py-3 px-4 bg-slate-50 hover:bg-slate-100 text-slate-900 font-semibold rounded-xl text-center transition-colors border border-slate-200">
@@ -630,10 +630,11 @@
                     </div>
                 </div>
                 <div class="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-slate-500">
-                    <p class="md:text-left text-center">© 2024 bixont.it Tutti i diritti riservati.</p>
-                    <p class="text-center">P.IVA 02834110039</p>
-                    <div class="hidden md:block"></div>
-                </div>
+    <p class="md:text-left text-center">© 2024 bixont.it Tutti i diritti riservati.</p>
+    <p class="text-center">P.IVA 02834110039</p>
+    <div class="hidden md:block"></div>
+</div>
+
             </div>
         </footer>
         <!-- Logic -->
@@ -1111,3 +1112,4 @@
         </div>
     </body>
 </html>
+
